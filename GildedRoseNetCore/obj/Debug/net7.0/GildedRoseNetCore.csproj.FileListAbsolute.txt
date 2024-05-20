@@ -1,0 +1,14 @@
+/Users/gcamou/3pillar/GildedRoseNetCore/bin/Debug/net7.0/GildedRoseNetCore
+/Users/gcamou/3pillar/GildedRoseNetCore/bin/Debug/net7.0/GildedRoseNetCore.deps.json
+/Users/gcamou/3pillar/GildedRoseNetCore/bin/Debug/net7.0/GildedRoseNetCore.runtimeconfig.json
+/Users/gcamou/3pillar/GildedRoseNetCore/bin/Debug/net7.0/GildedRoseNetCore.dll
+/Users/gcamou/3pillar/GildedRoseNetCore/bin/Debug/net7.0/GildedRoseNetCore.pdb
+/Users/gcamou/3pillar/GildedRoseNetCore/obj/Debug/net7.0/GildedRoseNetCore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gcamou/3pillar/GildedRoseNetCore/obj/Debug/net7.0/GildedRoseNetCore.AssemblyInfoInputs.cache
+/Users/gcamou/3pillar/GildedRoseNetCore/obj/Debug/net7.0/GildedRoseNetCore.AssemblyInfo.cs
+/Users/gcamou/3pillar/GildedRoseNetCore/obj/Debug/net7.0/GildedRoseNetCore.csproj.CoreCompileInputs.cache
+/Users/gcamou/3pillar/GildedRoseNetCore/obj/Debug/net7.0/GildedRoseNetCore.dll
+/Users/gcamou/3pillar/GildedRoseNetCore/obj/Debug/net7.0/refint/GildedRoseNetCore.dll
+/Users/gcamou/3pillar/GildedRoseNetCore/obj/Debug/net7.0/GildedRoseNetCore.pdb
+/Users/gcamou/3pillar/GildedRoseNetCore/obj/Debug/net7.0/GildedRoseNetCore.genruntimeconfig.cache
+/Users/gcamou/3pillar/GildedRoseNetCore/obj/Debug/net7.0/ref/GildedRoseNetCore.dll
